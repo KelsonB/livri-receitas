@@ -1,2 +1,2 @@
-# livri-receitas
+# livro-receitas
 teste livro de receitas
